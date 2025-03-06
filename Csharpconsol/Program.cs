@@ -2,6 +2,9 @@
 
 class Program
 {
+    /// <summary>
+    /// salam can
+    /// </summary>
     static void Main()
     {
 
